@@ -15,7 +15,7 @@ class Solution {
             else
             {
               // you are in asc part of array
-                start = mid + 1;//  because we know that mid+1 is > than mid hence we egnoring the mid ; 
+                start = mid + 1;//  because we know that mid+1 is > than mid hence we ignoring the mid ; 
             }
         }
       // At the end start == end and pointing to the largest number because of the 2 cheks above
